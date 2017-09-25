@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: BlackJack, Configuration: Debug Win32 ------
+1>  player.cpp
+1>  BlackJack.vcxproj -> C:\Users\Bobak\documents\visual studio 2015\Projects\BlackJack\Debug\BlackJack.exe
+1>  BlackJack.vcxproj -> C:\Users\Bobak\documents\visual studio 2015\Projects\BlackJack\Debug\BlackJack.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
